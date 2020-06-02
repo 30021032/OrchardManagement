@@ -6,5 +6,5 @@ This app has been created specifically for small orchards to manage their action
 
 This app requires:
 
--XAMPP
--Microsoft Visual Studio MySQL connection .dll files
+- XAMPP
+- Microsoft Visual Studio MySQL connection .dll files
